@@ -1,5 +1,11 @@
 ## SD Interface 3PL Releases
 
+### 2.0.1
+
+#### Enhancements
+
+- A minor change was made to the 3PL Setup table.
+
 ### 2.0.0
 
 #### Enhancements
