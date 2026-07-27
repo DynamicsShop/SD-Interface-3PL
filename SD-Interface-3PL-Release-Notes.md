@@ -1,5 +1,39 @@
 ## SD Interface 3PL Releases
 
+### 2.0.0
+
+#### Enhancements
+
+- The code base was converted from C/AL to AL.
+
+- Various UI changes were made to the SD Interface 3PL Setup Card. KPI cues were added to a new KPI FastTab.
+
+- UI changes were made to the SD Interface 3PL Location Mapping list.
+
+- UI changes were made to the SD Interface 3PL UOM Mapping list.
+
+- UI changes were made to the SD Interface 3PL Item Mapping list.
+
+- UI changes were made to the SD Interface 3PL Reason Code Mapping list.
+
+- A table relation was added to the 3PL Code on the Mapping pages.
+
+- Unused fields were removed from the Setup Card.
+
+- The Licence Activation and Setup Wizard was added to the app.
+
+- The Licence Controller was added to the app.
+
+- The notification to activate the app, displayed on fresh install of SD Interface 3PL, was added to the standard Business Central role centres.
+
+- Our various ISV standards were added to the app.
+
+- SD Interface 3PL permission sets were created.
+
+- The link in the View Our Apps action on the Setup Card was updated.
+
+- The Manage Subscriptions Page, accessed from the Setup Card, was updated.
+
 ### 1.0.0
 
 #### Enhancements
