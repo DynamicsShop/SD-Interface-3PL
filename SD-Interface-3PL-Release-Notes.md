@@ -1,5 +1,15 @@
 ## SD Interface 3PL Releases
 
+### 2.0.2
+
+#### Enhancements
+
+- Updates were made to how the lot and serial number test is handled in the SDY 3PL Movement Test Codeunit.  
+
+- The Validate Movement Manual and Test Movement Manual actions were made invisible on the SDY 3PL Inbound Entries page as these actions shouldn't be used.
+
+- Telemetry was added to log when Movements are archived in SD Interface 3PL.
+  
 ### 2.0.1
 
 #### Enhancements
