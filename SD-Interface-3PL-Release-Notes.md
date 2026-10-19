@@ -1,5 +1,13 @@
 ## SD Interface 3PL Releases
 
+### 2.0.3
+
+#### Enhancements
+
+- An update was made to the message displayed on the Activation page on initial installation of the App.
+
+- The notification prompting users to activate a free trial of SD Interface 3PL on a fresh install has been limited to display no more than once per hour on standard role centres.
+
 ### 2.0.2
 
 #### Enhancements
